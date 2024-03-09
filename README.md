@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Suneel Nerre <p align="right"> <img src="https://komarev.com/ghpvc/?username=ishikadubey792&label=Profile%20views&color=0e75b6&style=flat" alt="ishikadubey792" /> </p>
-
+### Hi there 👋, I'm Suneel Nerre 
 #### Full stack web developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suneel-nerre&label=Profile%20views&color=0e75b6&style=flat" alt="suneel-nerre" /> </p>
 I'm a software engineer. I really love coding and learning frameworks like react and node.js. I'm currently doing a course about Full stack web development with MERN.
 
 Skills: JAVA / REACT / JS / HTML / CSS
