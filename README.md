@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Suneel Nerre from India, a software engineer. I really love coding and learning frameworks like react and node.js. I'm currently doing a course about Full stack web development with MERN.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suneel-nerre)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Suneel-Nerre/Suneel-Nerre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
