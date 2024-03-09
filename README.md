@@ -1,19 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Suneel Nerre
+#### Full stack web developer
+I'm a software engineer. I really love coding and learning frameworks like react and node.js. I'm currently doing a course about Full stack web development with MERN.
 
-I'm Suneel Nerre from India, a software engineer. I really love coding and learning frameworks like react and node.js. I'm currently doing a course about Full stack web development with MERN.
+Skills: JAVA / REACT / JS / HTML / CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suneel-nerre)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Suneel-Nerre/Suneel-Nerre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a project called Superher hunter using vanilla JS 
+- 🌱 I’m currently learning HTML, CSS & JS 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Suneel-Nerre)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suneel-nerre/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/suneel_in/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/suneel_in)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Suneel-Nerre)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suneel-Nerre)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suneel-Nerre&show_icons=true)  
+
