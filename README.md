@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Suneel Nerre <span> <img src="https://komarev.com/ghpvc/?username=suneel-nerre&label=Profile%20views&color=0e75b6&style=flat" alt="suneel-nerre" /> </span>
+### Hi there 👋, I'm Suneel Nerre <p align="right"> <img src="https://komarev.com/ghpvc/?username=suneel-nerre&label=Profile%20views&color=0e75b6&style=flat" alt="suneel-nerre" /> </p>
 #### Full stack web developer
 I'm a software engineer. I really love coding and learning frameworks like react and node.js. I'm currently doing a course about Full stack web development with MERN.
 
